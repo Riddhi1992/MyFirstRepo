@@ -1,0 +1,9 @@
+p {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background: white url('images/download.jpeg');
+}
